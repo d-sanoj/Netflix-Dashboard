@@ -46,14 +46,4 @@ To explore the Netflix Analysis Dashboard:
 
 I invite fellow data enthusiasts and professionals to explore the Netflix Analysis Dashboard and provide feedback for further enhancement. Let's continue to Encode your legacy in bits and bytes.
 
-## Tags
-- PowerBI
-- DataAnalysis
-- Netflix
-- DataVisualization
-- Dashboard
-- Analytics
-- DataScience
-- BusinessIntelligence
-
 Thank you for visiting this repository! 🌟 We hope you find the insights valuable and informative. Happy analyzing! 🚀📊🎥
